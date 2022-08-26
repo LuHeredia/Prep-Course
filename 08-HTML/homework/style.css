@@ -1,0 +1,34 @@
+html{
+    background-image: url(https://i.pinimg.com/originals/f5/f3/56/f5f356d842b829d0845872369b068fe6.jpg);
+    display: flex;
+    justify-content: center;
+    color: rgb(216, 212, 212);
+}
+h1{
+    color: rgb(170, 45, 45);
+   
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 600px;
+    width: 500px;
+    background-color: rgb(78, 75, 75);
+    padding: 50px;
+    border: 10px inset rgb(170, 45, 45) ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+
+}
