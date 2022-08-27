@@ -1,0 +1,33 @@
+
+body{
+    background-color: lightpink;
+}
+
+#thirdDiv{
+    background-color: rgb(245, 248, 250);
+    border: inset 10px rgb(218, 114, 114);
+    padding: 15px;
+    width: 60%;
+    margin: 0 auto;
+}
+img{
+    width: 120px;
+    margin-right: 40px;
+    float: left;
+}
+h1{ 
+    color:rgb(153, 80, 80) ;
+    font-weight: bold;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+span{
+    font-weight: bold;
+}
+legend{
+    background-color:rgb(218, 114, 114) ;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
